@@ -1,4 +1,6 @@
-![alt text](https://raw.githubusercontent.com/joakimmohn/diplomat/master/hs.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joakimmohn/diplomat/master/hs.jpg" width="400"/>
+</p>
 
 # Diplomat
 
