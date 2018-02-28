@@ -1,0 +1,25 @@
+{
+  "name": "diplomat",
+  "version": "1.0.0",
+  "description": "minimalistic pub/sub module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joakimmohn/diplomat.git"
+  },
+  "keywords": [
+    "pub",
+    "sub",
+    "events",
+    "eventemitter"
+  ],
+  "author": "Joakim Mohn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joakimmohn/diplomat/issues"
+  },
+  "homepage": "https://github.com/joakimmohn/diplomat#readme"
+}
