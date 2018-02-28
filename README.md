@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/joakimmohn/diplomat/master/hs.jpg)
+
 # Diplomat
 
 Minimalistic zero-dependency pub/sub module.
