@@ -1,6 +1,6 @@
 {
   "name": "diplomat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "minimalistic pub/sub module",
   "main": "build/index.js",
   "scripts": {
