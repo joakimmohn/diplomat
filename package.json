@@ -2,7 +2,7 @@
   "name": "diplomat",
   "version": "1.0.0",
   "description": "minimalistic pub/sub module",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "compile": "./node_modules/.bin/babel --presets es2015 index.js -o build/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
